@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Gibson::Application.load_tasks
+Newgibson::Application.load_tasks

@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Gibson::Application.config.secret_token = '5f8287ddf9c30ea4a7185e6c40b5b21038b897776b7b0935f10f980fd5486b54ad59632359269c51b4eb554e83667722fdb24c5f5593ecb4eeddd0689b7e0491'
+Newgibson::Application.config.secret_token = 'ba6aaf3da0f46311ab79c0ba79c3fae6b9f4d28bca48395410395d9371bc4a57b22677bcb6697fcc22cc60b2db13e58b8c6cb7d841053f990d0342f7cd77fc22'
