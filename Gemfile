@@ -7,10 +7,10 @@ gem 'social_stream', '>= 1.0.0'
 group :production do
     gem 'pg'
 end
+
 group :development, :test do
     gem 'sqlite3'
 end
-
 
 # Gems used only for assets and not required
 # in production environments by default.
