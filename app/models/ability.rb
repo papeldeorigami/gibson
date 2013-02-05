@@ -2,7 +2,7 @@ class Ability
   include SocialStream::Ability
 
   def initialize(subject)
-    super
+    # super
 
     can :create, Comment
     can [:create, :destroy], Post do |p|
