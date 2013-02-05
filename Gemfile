@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.11'
 
-gem 'social_stream', '0.30.0'
+gem 'social_stream', '>= 1.0.0'
 
 group :production do
     gem 'pg'
