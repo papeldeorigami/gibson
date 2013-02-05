@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.11'
 
 # gem 'social_stream', '>= 1.0.0'
+gem 'social_stream-base'
 gem 'social_stream-documents'
 
 group :production do

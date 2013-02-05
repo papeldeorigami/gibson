@@ -262,6 +262,7 @@ DEPENDENCIES
   pg
   rails (= 3.2.11)
   sass-rails (~> 3.2.3)
+  social_stream-base
   social_stream-documents
   sqlite3
   therubyracer
